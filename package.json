@@ -1,0 +1,18 @@
+{
+  "name": "fj-global",
+  "version": "0.1.0",
+  "description": "fj-global =========",
+  "main": "lib/global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Foundation-JS/fj-global.git"
+  },
+  "author": "lianhanjin@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Foundation-JS/fj-global/issues"
+  }
+}
